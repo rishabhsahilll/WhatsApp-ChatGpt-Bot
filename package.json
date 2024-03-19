@@ -1,0 +1,49 @@
+{
+  "name": "whatsapp-bot-chatgpt-java",
+  "version": "1.0.0",
+  "description": "WhatsApp Auto Replay Bot ChatGpt Using Java",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "node index.js"
+  },
+  "keywords": [
+    "termux",
+    "whatsapp-openai",
+    "whatsapp-openai",
+    "whatsapp-bot",
+    "whatsapp-baileys",
+    "baileys-md",
+    "bot-wa",
+    "bot-md",
+    "whatsapp-multi-device"
+  ],
+  "base": "https://github.com/rishabhsahil",
+  "author": "rishabhsahil",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/baileys": "4.4.0",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "awesome-phonenumber": "^2.64.0",
+    "chalk": "^4.1.2",
+    "crypto": "^1.0.1",
+    "figlet": "^1.5.2",
+    "fs": "0.0.1-security",
+    "lodash": "^4.17.21",
+    "openai": "^3.1.0",
+    "pino": "^7.0.5",
+    "qrcode-terminal": "^0.12.0",
+    "util": "^0.12.4"
+  },
+  "directories": {
+    "lib": "lib",
+    "src": "src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RishabhSahil/WhatsApp-Bot-ChatGpt-Java.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RishabhSahil/WhatsApp-Bot-ChatGpt-Java/issues"
+  },
+  "homepage": "https://github.com/RishabhSahil/WhatsApp-Bot-ChatGpt-Java/blob/main/README.md"
+}
